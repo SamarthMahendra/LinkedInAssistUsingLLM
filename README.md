@@ -25,6 +25,3 @@ In upcoming releases, additional filters will be integrated, along with an optio
 - **User Interface Improvements**: Enhance the user interface of the Chrome extension to provide a more intuitive and seamless experience.
 - **Multi-platform Support**: Extend the functionality to support other job platforms besides LinkedIn, providing users with a broader range of options.
 
-## Feedback
-
-Your feedback is valuable! Please feel free to share your thoughts on this demo and any new functionalities that you think would be exciting to add. Your input will help shape the future development of this project.
